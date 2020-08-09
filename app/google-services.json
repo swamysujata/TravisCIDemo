@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1020672271561",
+    "firebase_url": "https://traviscidemo-3e2d5.firebaseio.com",
+    "project_id": "traviscidemo-3e2d5",
+    "storage_bucket": "traviscidemo-3e2d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020672271561:android:d1223c2ea3efd1e0709918",
+        "android_client_info": {
+          "package_name": "com.app.traviscidemoapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020672271561-c5mgh1ft8ucorra1mgkjuj4ks9gnlksf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6LBM_RKFw-yiibqtDpwFIQM4RwKLfiE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020672271561-c5mgh1ft8ucorra1mgkjuj4ks9gnlksf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
